@@ -1,3 +1,5 @@
+//when in doubt, kill a man.
+
 public class doubt{
 	public static void main(String[] args){
 		B x = new B();
