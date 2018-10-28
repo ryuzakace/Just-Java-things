@@ -1,3 +1,4 @@
+// parent class
 abstract class Parent {
 	int a = 1; 
 	 public Parent(){
@@ -13,6 +14,7 @@ abstract class Parent {
 	public  abstract void pop();
 }
 
+// child class
 class Child extends Parent {
 
         
