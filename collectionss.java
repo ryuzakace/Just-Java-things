@@ -1,3 +1,5 @@
+// program to explore different data structures provided by the java.util.collections library 
+
 import java.util.*;
 
 public class collectionss{
