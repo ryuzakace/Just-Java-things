@@ -1,5 +1,5 @@
 //output xxyxy
-
+// checkin' out the constuctor, the creator of all classes, ruler of the heavenss.
 public class constructorr{
 	public static void main(String[] args){
 		x aa = new x();
